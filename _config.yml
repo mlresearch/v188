@@ -1,0 +1,92 @@
+---
+booktitle: Proceedings of the First International Conference on Automated Machine
+  Learning
+shortname: AutoML-Conf
+year: '2022'
+volume: '188'
+start: 2022-07-25
+end: 2022-07-27
+published: 2022-09-19
+conference_number: '1'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: automlconf22
+month: 0
+cycles: false
+bibtex_editor: Guyon, Isabelle and Lindauer, Marius and van der Schaar, Mihaela and
+  Hutter, Frank and Garnett, Roman
+editor:
+- given: Isabelle
+  family: Guyon
+- given: Marius
+  family: Lindauer
+- given: Mihaela
+  family: Schaar
+  prefix: van der
+- given: Frank
+  family: Hutter
+- given: Roman
+  family: Garnett
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First International Conference on Automated Machine Learning
+    Held in Johns Hopkins University, Baltimore, MD, USA on 25-27 July 2022
+
+  Published as Volume 188 by the Proceedings of Machine Learning Research on 19 September 2022.
+
+  Volume Edited by:
+    Isabelle Guyon
+    Marius Lindauer
+    Mihaela van der Schaar
+    Frank Hutter
+    Roman Garnett
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 25--27 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v188"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v188
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v188
+email: ''
+conference:
+  name: International Conference on Automated Machine Learning
+  url: https://automl.cc/conferences-2022/
+  location: Johns Hopkins University, Baltimore, MD, USA
+  dates:
+  - 2022-07-25
+  - 2022-07-26
+  - 2022-07-27
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v188/automlconf22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v188/automlconf22.bib
